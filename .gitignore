@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+output/
+reports/tearsheets/
+reports/sector/
+*.db
+*.zip
+.streamlit/secrets.toml
